@@ -14,14 +14,14 @@ This repository contains all the code I practiced while learning Data Structures
 
 ## 📂 Folder Structure
 DSA/
-├── Arrays/
-├── LinkedList/
-├── Stack/
-├── Queue/
-├── Tree/
-├── Graph/
-├── Sorting/
-├── Searching/
+├── Arrays
+├── LinkedList
+├── Stack
+├── Queue
+├── Tree
+├── Graph
+├── Sorting
+├── Searching
 └── README.md
 
 ---
