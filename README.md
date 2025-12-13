@@ -1,4 +1,4 @@
-# # 📚 DSA Practice — CDAC Module
+# 📚 DSA Practice — CDAC Module
 
 This repository contains all the code I practiced while learning Data Structures and Algorithms in the CDAC module. It includes foundational implementations, classroom exercises, and problem-solving examples that helped strengthen my understanding of how different data structures work internally and how algorithms are applied efficiently.
 
